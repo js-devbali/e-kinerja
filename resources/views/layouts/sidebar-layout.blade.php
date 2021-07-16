@@ -8,7 +8,7 @@
     {{-- Brand Logo End --}}
     
     <!-- Sidebar Menu Start -->
-    <div class="sidebar"> 
+    <div class="sidebar">
         <nav class="mt-3 mb-5 pb-5">
             <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
                 <li class="nav-item" id="authentication">
